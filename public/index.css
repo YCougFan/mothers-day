@@ -1,0 +1,24 @@
+section {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: violet;
+    margin: 0px 500px;
+}
+
+h1 {
+    font-size: xx-large;
+}
+
+p {
+    font-size: large;
+}
+
+footer {
+    font-size: xx-large;
+}
+
+body {
+    background-image: url(https://images6.alphacoders.com/353/thumb-1920-353272.jpg);
+
+}
